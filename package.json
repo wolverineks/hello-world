@@ -1,0 +1,23 @@
+{
+  "name": "102397eipqruajn",
+  "version": "0.0.1",
+  "description": "",
+  "main": "dist/index.js",
+  "dependencies": {
+    "typescript": "^4.4.4"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/wolverineks/hello-world.git"
+  },
+  "author": "Kevin Sullivan <wolverine.ks@gmail.com>",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/wolverineks/hello-world/issues"
+  },
+  "homepage": "https://github.com/wolverineks/hello-world#readme"
+}
