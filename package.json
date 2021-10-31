@@ -1,9 +1,11 @@
 {
   "name": "102397eipqruajn",
-  "version": "0.0.1",
+  "version": "0.0.2",
   "description": "",
   "main": "dist/index.js",
+  "types": "dist/index.d.ts",
   "dependencies": {
+    "102397eipqruajn": "^0.0.1",
     "typescript": "^4.4.4"
   },
   "devDependencies": {},
